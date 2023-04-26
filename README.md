@@ -1,2 +1,2 @@
 # alura-bytebanc-react
-Projeto criado com alura utilizando react, jest e test library
+Esse é um projeto criado durante o curso de "React JS: Jest + test library"
