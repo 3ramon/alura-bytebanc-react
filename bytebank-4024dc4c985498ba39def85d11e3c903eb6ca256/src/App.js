@@ -15,7 +15,7 @@ export default function App() {
   function realizarTransacao(valores) {
     const novoSaldo = calculaNovoSaldo(valores, saldo);
     setSaldo(novoSaldo);
-          setTransacoes([...transacoes, valores]);
+    setTransacoes([...transacoes, valores]);
   }
 
   return (
